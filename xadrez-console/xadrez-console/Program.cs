@@ -8,6 +8,8 @@ namespace xadrez_console
         {
             Tabuleiro Tab = new Tabuleiro(8, 8);
 
+            Tela.imprimirTabuleiro(Tab);
+
         }
     }
 }
